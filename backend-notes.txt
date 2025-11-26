@@ -1,0 +1,8 @@
+1. Backend development is the server-side part of applications that processes data, handles logic, and communicates with the database.
+
+2. Examples of backend frameworks:
+- Express.js
+- Laravel
+- Django
+
+3. An API (Application Programming Interface) allows frontend and backend to communicate and exchange data.
